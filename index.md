@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 导读
+---
+> Flink个人笔记 ==> [https://go996.github.io/flink-notes/](https://go996.github.io/flink-notes/)
 
-You can use the [editor on GitHub](https://github.com/GO996/flink-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+该项目用于记录个人学习笔记，有部分内容来自图书、博客、论坛等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如有侵权等问题，请联系zhenghhgz@126.com，本人会第一时间删除相关内容。
 
-### Markdown
+笔记中的图片都来自网络(减小项目文件体积)，如果加载不出来，建议下载该项目到本地阅读
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GO996/flink-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 目录
+---
+- 列表内容
